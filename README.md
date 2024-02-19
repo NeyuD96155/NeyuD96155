@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to web development, particularly those focused on improving accessibility and usability. I believe in the power of community-driven development to create impactful software.
 
-📫 How to reach me: The best way to get in touch with me is via email at [phuocha275@gmail.com]. You can also follow me on [Facebook](https://www.facebook.com/profile.php?id=100087274279487) for professional updates and [Github](https://github.com/NeyuD96155) for more casual interactions.
+📫 How to reach me: The best way to get in touch with me is via email at [Gmail](phuocha275@gmail.com). You can also follow me on [Facebook](https://www.facebook.com/profile.php?id=100087274279487) for professional updates and [Github](https://github.com/NeyuD96155) for more casual interactions.
 
 😄 Pronouns: Mint
 
