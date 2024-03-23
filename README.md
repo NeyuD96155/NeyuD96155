@@ -2,7 +2,7 @@ Hello I'm Phuoc Ha
 -----------------
 Welcome to my GitHub profile! My journey began with a curiosity for problem-solving, evolving into a deep-seated passion for creating impactful solutions through code. With expertise in JavaScript and React Node.js, I thrive on challenges that expand my skills. Whether crafting algorithms, architecting systems, or optimizing performance, I love every aspect of development. My repositories showcase a diverse range of projects, from open-source contributions to personal endeavors, each reflecting innovation and continuous learning. I'm committed to fostering collaboration and knowledge-sharing within the tech community, advocating for diversity and inclusion. Beyond coding, you'll find me exploring nature, reading, or experimenting in the kitchen. Let's connect, collaborate, and make a positive impact together! Feel free to explore my repositories and reach out with ideas. 
 
-Happy coding! 🚀 
+Happy coding! 🚀   
 Phuoc Ha  
 
 My achievements 
@@ -23,7 +23,7 @@ My achievements
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100087274279487" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NeyuD96155" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Follow me
------------------
+
 <a href="https://www.github.com/NeyuD96155" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-the-badge&color=0891b2&labelColor=333333" /></a>
 ### Badges
@@ -33,7 +33,5 @@ src="https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-th
 <a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-stats.vercel.app/api?username=NeyuD96155&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="NeyuD96155's GitHub stats" /></a>
 
 <a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeyuD96155&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NeyuD96155&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/NeyuD96155" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeyuD96155&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
