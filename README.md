@@ -1,9 +1,21 @@
 🎎Hello I'm Nhat Ha
 -----------------
-Welcome to my GitHub profile! My journey began with a curiosity for problem-solving, evolving into a deep-seated passion for creating impactful solutions through code. With expertise in JavaScript and React Node.js, I thrive on challenges that expand my skills. Whether crafting algorithms, architecting systems, or optimizing performance, I love every aspect of development. My repositories showcase a diverse range of projects, from open-source contributions to personal endeavors, each reflecting innovation and continuous learning. I'm committed to fostering collaboration and knowledge-sharing within the tech community, advocating for diversity and inclusion. Beyond coding, you'll find me exploring nature, reading, or experimenting in the kitchen. Let's connect, collaborate, and make a positive impact together! Feel free to explore my repositories and reach out with ideas. 
+**My Journey:**  
+My journey began with a curiosity for problem-solving, evolving into a deep-seated passion for creating impactful solutions through code. With expertise in **JavaScript** and **React Node.js**, I thrive on challenges that expand my skills. Whether crafting algorithms, architecting systems, or optimizing performance, I love every aspect of development.
 
-Happy coding! 🚀   
-Nhat Ha  
+**Diverse Projects:**  
+My repositories showcase a diverse range of projects, from open-source contributions to personal endeavors, each reflecting innovation and continuous learning.
+
+**Community Involvement:**  
+I'm committed to fostering collaboration and knowledge-sharing within the tech community, advocating for diversity and inclusion.
+
+**Beyond Coding:**  
+Beyond coding, you'll find me exploring nature, reading, or experimenting in the kitchen. Let's connect, collaborate, and make a positive impact together!
+
+Feel free to explore my repositories and reach out with ideas.
+
+**Happy Coding!** 🚀  
+*Nhat Ha*
 
 ️🏆My achievements 
 -----------------
