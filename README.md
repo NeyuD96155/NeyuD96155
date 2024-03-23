@@ -37,7 +37,4 @@ My achievements
 
 ### Follow me
 
-<a href="https://www.github.com/NeyuD96155" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-the-badge&color=C1FFC1&labelColor=000000" /></a>
-
-
+[![Follow NeyuD96155 on GitHub](https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-the-badge&color=C1FFC1&labelColor=000000)](https://www.github.com/NeyuD96155)
