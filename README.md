@@ -1,16 +1,16 @@
-Hello I'm Nhat Ha
+🎎Hello I'm Nhat Ha
 -----------------
 Welcome to my GitHub profile! My journey began with a curiosity for problem-solving, evolving into a deep-seated passion for creating impactful solutions through code. With expertise in JavaScript and React Node.js, I thrive on challenges that expand my skills. Whether crafting algorithms, architecting systems, or optimizing performance, I love every aspect of development. My repositories showcase a diverse range of projects, from open-source contributions to personal endeavors, each reflecting innovation and continuous learning. I'm committed to fostering collaboration and knowledge-sharing within the tech community, advocating for diversity and inclusion. Beyond coding, you'll find me exploring nature, reading, or experimenting in the kitchen. Let's connect, collaborate, and make a positive impact together! Feel free to explore my repositories and reach out with ideas. 
 
 Happy coding! 🚀   
 Nhat Ha  
 
-My achievements 
+️🏆My achievements 
 -----------------
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeyuD96155" alt="NeyuD96155" /></a> </p>
 
 
-<b>My GitHub Stats</b>
+<b> 📊My GitHub Stats</b>
 -----------------
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around; flex-wrap: wrap;">
@@ -23,7 +23,7 @@ My achievements
 </div>
 
 
-### Skills
+### 🌟Skills
 -----------------
 
 <p align="left">
@@ -31,10 +31,10 @@ My achievements
 </p>
 
 
-### Socials
+### 📱Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100087274279487" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NeyuD96155" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Follow
+### 🚩Follow me
 [![GitHub followers](https://img.shields.io/github/followers/NeyuD96155?label=Follow&style=social)](https://github.com/NeyuD96155)
 
