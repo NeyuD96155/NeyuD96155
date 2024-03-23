@@ -13,8 +13,14 @@ My achievements
 <b>My GitHub Stats</b>
 -----------------
 
-<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-stats.vercel.app/api?username=NeyuD96155&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=333333&icon_color=0891b2&bg_color=F8F8FF&hide_border=true&show_icons=true" alt="NeyuD96155's GitHub stats" /></a>
-<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeyuD96155&stroke=228B22&background=F8F8FF&ring=22c55e&fire=22c55e&currStreakNum=228B22&currStreakLabel=22c55e&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" /></a>
+<p align="center">
+  <a href="http://www.github.com/NeyuD96155">
+    <img src="https://github-readme-stats.vercel.app/api?username=NeyuD96155&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=333333&icon_color=0891b2&bg_color=F8F8FF&hide_border=true&show_icons=true" alt="NeyuD96155's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/NeyuD96155">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeyuD96155&stroke=228B22&background=F8F8FF&ring=22c55e&fire=22c55e&currStreakNum=228B22&currStreakLabel=22c55e&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" />
+  </a>
+</p>
 
 ### Skills
 -----------------
