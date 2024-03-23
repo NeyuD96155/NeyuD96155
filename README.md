@@ -36,8 +36,5 @@ My achievements
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100087274279487" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NeyuD96155" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Follow
-<a href="https://github.com/NeyuD96155" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" alt="Follow NeyuD96155 on GitHub" />
-    Follow
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/NeyuD96155?label=Follow&style=social)](https://github.com/NeyuD96155)
 
