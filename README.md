@@ -10,6 +10,12 @@ My achievements
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeyuD96155" alt="NeyuD96155" /></a> </p>
 
 
+<b>My GitHub Stats</b>
+-----------------
+
+<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-stats.vercel.app/api?username=NeyuD96155&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=333333&icon_color=0891b2&bg_color=F8F8FF&hide_border=true&show_icons=true" alt="NeyuD96155's GitHub stats" /></a>
+<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeyuD96155&stroke=228B22&background=F8F8FF&ring=22c55e&fire=22c55e&currStreakNum=228B22&currStreakLabel=22c55e&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" /></a>
+
 ### Skills
 -----------------
 
@@ -25,13 +31,6 @@ My achievements
 ### Follow me
 
 <a href="https://www.github.com/NeyuD96155" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-the-badge&color=0891b2&labelColor=333333" /></a>
-### Badges
+src="https://img.shields.io/github/followers/NeyuD96155?logo=github&style=for-the-badge&color=C1FFC1&labelColor=000000" /></a>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-stats.vercel.app/api?username=NeyuD96155&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="NeyuD96155's GitHub stats" /></a>
-
-<a href="http://www.github.com/NeyuD96155"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeyuD96155&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/NeyuD96155" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeyuD96155&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
