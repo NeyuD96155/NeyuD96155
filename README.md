@@ -1,24 +1,20 @@
 🌟 Welcome to My Digital Realm! I'm Nhat Ha 🌟  
 -----------------
 🚀 **My Developer Odyssey:**
-
 My journey began as a flicker of curiosity for solving puzzles and gradually ignited into a blazing passion for devising meaningful digital experiences through code. My forte lies in the dynamic dance of **JavaScript**, the robust frameworks of **React**, and the scalable back-end operations with **Node.js**. I'm invigorated by the intellectual gymnastics of algorithm design, the architectural elegance of complex systems, and the thrill of performance enhancement. Coding, for me, is not just a profession—it’s a playground for innovation.
 
 🛠️ **Portfolio of Innovation:**
-
 Dive into my repositories and you'll embark on a voyage through a sea of diverse projects. Each repository is a portal to a universe where open-source contributions and personal masterpieces coexist, all mirroring my unwavering commitment to innovation and lifelong learning.
 
 💡 **Cultivating Community:**
-
 I'm an ardent advocate for weaving the threads of collaboration and knowledge exchange within the tapestry of the tech cosmos. I stand for diversity and unbridled inclusion, championing a community where every coder has a voice.
 
 📚 **Life Beyond Brackets:**
-
 When I'm not immersed in the binary ballet, I seek solace in the embrace of Mother Nature, the wisdom of written words, and the alchemy of culinary experiments. I'm on a perpetual quest to forge connections, co-create wonders, and cast a lasting positive ripple across our world.
 
-🌟 Let's embark on a journey of collaboration and innovation. Traverse my repositories, spark a conversation, and let's mold the future with every line of code we write.
+🌟*Let's embark on a journey of collaboration and innovation. Traverse my repositories, spark a conversation, and let's mold the future with every line of code we write.*
 
-**Keep Coding and Keep Shining! 🚀**
+**Keep Coding and Keep Shining! 🚀**  
 *Nhat Ha*
 
 
