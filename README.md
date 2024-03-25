@@ -1,4 +1,5 @@
-🌟 Welcome to My Digital Realm! I'm Nhat Ha 🌟
+🌟 Welcome to My Digital Realm! I'm Nhat Ha 🌟  
+-----------------
 🚀 **My Developer Odyssey:**
 
 My journey began as a flicker of curiosity for solving puzzles and gradually ignited into a blazing passion for devising meaningful digital experiences through code. My forte lies in the dynamic dance of **JavaScript**, the robust frameworks of **React**, and the scalable back-end operations with **Node.js**. I'm invigorated by the intellectual gymnastics of algorithm design, the architectural elegance of complex systems, and the thrill of performance enhancement. Coding, for me, is not just a profession—it’s a playground for innovation.
