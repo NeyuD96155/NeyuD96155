@@ -1,4 +1,4 @@
-🌟 Welcome to My Digital Realm! I'm Phuoc Ha 🌟  
+🌟 Welcome to My Digital Realm! I'm Nhat Ha 🌟  
 -----------------
 🚀 **My Developer Odyssey:**
 My journey began as a flicker of curiosity for solving puzzles and gradually ignited into a blazing passion for devising meaningful digital experiences through code. My forte lies in the dynamic dance of **JavaScript**, the robust frameworks of **React**, and the scalable back-end operations with **Node.js**. I'm invigorated by the intellectual gymnastics of algorithm design, the architectural elegance of complex systems, and the thrill of performance enhancement. Coding, for me, is not just a profession—it’s a playground for innovation.
@@ -15,7 +15,7 @@ When I'm not immersed in the binary ballet, I seek solace in the embrace of Moth
 🌟*Let's embark on a journey of collaboration and innovation. Traverse my repositories, spark a conversation, and let's mold the future with every line of code we write.*
 
 **Keep Coding and Keep Shining! 🚀**  
-*Phuoc Ha*
+*Nhat Ha*
 
 
 
